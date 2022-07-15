@@ -71,4 +71,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### Projects details
 
-This project it's created for to practice React JS and GitHub, it's just to learn
+This project it's created for to practice React JS and GitHub, it's just to learn. The new line is added for test number two
